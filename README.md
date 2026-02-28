@@ -93,6 +93,7 @@ npx skills add canxing/my-skills --skill my-awesome-skill
 
 | Skill | 来源 | 用途 |
 |-------|------|------|
+| api-design-principles | wshobson/agents | API 设计原则 |
 | cve-vulnerability-analysis | canxing/skills | CVE 漏洞分析 |
 | find-skills | vercel-labs/skills | 搜索和发现 skills |
 | git-commit | github/awesome-copilot | Git 提交信息生成 |
