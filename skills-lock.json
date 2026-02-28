@@ -15,6 +15,11 @@
       "source": "github/awesome-copilot",
       "sourceType": "github",
       "computedHash": "2607fc60629b82b257136dd2a7a373f0a4466c0b49df7746d845d59313c99b21"
+    },
+    "prompt-engineering": {
+      "source": "inference-sh-9/skills",
+      "sourceType": "github",
+      "computedHash": "b7af5b298ea6229363400eff62ca05a3d51d0f76fae9008010282e6e1998044a"
     }
   }
 }
