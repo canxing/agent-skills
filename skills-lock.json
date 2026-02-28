@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "cve-vulnerability-analysis": {
+      "source": "canxing/skills",
+      "sourceType": "github",
+      "computedHash": "53afa575fe528ce4c9875b1aa06dbf1a4d38dc512d6eb979bfcda09fbfa338d7"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
