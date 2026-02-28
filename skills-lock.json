@@ -4,12 +4,12 @@
     "cve-vulnerability-analysis": {
       "source": "canxing/skills",
       "sourceType": "github",
-      "computedHash": "53afa575fe528ce4c9875b1aa06dbf1a4d38dc512d6eb979bfcda09fbfa338d7"
+      "computedHash": "fbf1dd90907282c91f43f5c346d3464cb7ab38b20bf71857f9fa5c6a0c702e74"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
-      "computedHash": "6412eb4eb3b91595ebab937f0c69501240e7ba761b3d82510b5cf506ec5c7adc"
+      "computedHash": "25872a21881a950edc3db1f3329664d60405d539660ce05b3265db2de06a7dfd"
     },
     "git-commit": {
       "source": "github/awesome-copilot",
