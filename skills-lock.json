@@ -21,6 +21,11 @@
       "sourceType": "github",
       "computedHash": "4a25e9e94d34856b6b61403afdbebf4483204c6e992ed3059090b6f82cddf6ed"
     },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "57f470f512f45bdac598e302bc72fd62bf2b649fc7fad032efe97720149cde4d"
+    },
     "supermap:cdci_analysis": {
       "source": "canxing/skills",
       "sourceType": "github",
