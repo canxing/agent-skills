@@ -5,7 +5,7 @@
       "source": "wshobson/agents",
       "sourceType": "github",
       "skillPath": "plugins/backend-development/skills/api-design-principles/SKILL.md",
-      "computedHash": "19715a3a3ff7bf7b1e2ab1cb631ebe810d5b050ed6b3ab0c358e39e5e2e6d33a"
+      "computedHash": "a91429c25bb978f99f5da8d8752b8ae87ece51abcb24acb3953a5b1662c9bd5c"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -23,91 +23,97 @@
       "source": "mattpocock/skills",
       "sourceType": "github",
       "skillPath": "skills/productivity/grill-me/SKILL.md",
-      "computedHash": "784f0dbb7403b0f00324bce9a112f715342777a0daee7bbb7385f9c6f0a170ea"
+      "computedHash": "daf64ca15f4fa081a6747766db538e2dbd1131725ed4fcdd3d538dc62c7035ba"
     },
     "prompt-engineering": {
       "source": "inference-sh-9/skills",
       "sourceType": "github",
       "skillPath": "guides/prompting/prompt-engineering/SKILL.md",
-      "computedHash": "ddebe77e5eda3ca1b6c8bc865ef526bd80da9533e8dcbc4a8a4e732d71406af2"
+      "computedHash": "a060324addc4437ac758bb729d587dfc61065ef0aa735af6f24ec98c32d8ad4e"
     },
     "skill-creator": {
       "source": "anthropics/skills",
       "sourceType": "github",
       "skillPath": "skills/skill-creator/SKILL.md",
-      "computedHash": "5ea13a6d9f0d4bb694405d79acd00cadec0d21bb138c4dd10fcf3c500cb835c2"
+      "computedHash": "7e3c9cd74e9e2b4828527a857170e86310f2dab5ea8030a9043df2c7e6c88857"
     },
     "ssh-connect": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/ssh-connect/SKILL.md",
-      "computedHash": "e9cccdaf7fc747ac60cac5637312ed98ab108532fe20a22a96ee8468afe4323c"
+      "computedHash": "afb97f793f228b086a3c112b2015caab81a9df286f33daaeceec4001d85c7646"
     },
     "supermap-cdci-analysis": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-cdci-analysis/SKILL.md",
-      "computedHash": "723da157efde540ce7a6306aac662e54c666f64c2d6eaab6ec7212f867a144ce"
+      "computedHash": "8d6b99a891ce892fff9bb4c91f389c1e75062803f0c6fa230e6c18205afde2a7"
     },
     "supermap-cve-analysis": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-cve-analysis/SKILL.md",
-      "computedHash": "2cc8ee1489a84ecfd74bd16a5a35cda45eade7ffe3790a3c528fa17d9ebb7d8b"
+      "computedHash": "ce9ebe40d93aad9acceea68d484bd8aa44185c07ffec6575dd777eb2718587df"
     },
     "supermap-jira-read": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-jira-read/SKILL.md",
-      "computedHash": "1043fae4dcf393627919efc31849ffd246c77a7e8443b435333e3d0832cbab05"
+      "computedHash": "7dda5554b0c750ebc9c647a83d741f4fdda73cbd55ffcbd69b1ecfb8f0c6dfd2"
     },
     "supermap-jira-search": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-jira-search/SKILL.md",
-      "computedHash": "855fcffb15b4ffb6dffc9db27482169942f127970b9e0aec1f3f2c8a52a40678"
+      "computedHash": "a067843017b2a2518665743a82609a8fde72f7ae288c870af5708c024afb9930"
     },
     "supermap-search": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-search/SKILL.md",
-      "computedHash": "9d93eee92c63cc7284e95112ee2f37c394c7f5b3d7ad88e656788477895acde6"
+      "computedHash": "575bdf832ed3cb64e487fa6330b53081f8f4be2e9ba6adfa9eb2ba0aa9d40b9e"
     },
     "supermap-sonar-error-analysis": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-sonar-error-analysis/SKILL.md",
-      "computedHash": "66bf8a724146b732191f4266fbfb90eddc5bcd637d6513bbe6d06d5a4d645ea6"
+      "computedHash": "61421e3f3adc2791fe72dbcb3148d4ab2273d9ce8629c9db70b787fb29cb5a6d"
     },
     "supermap-wiki-read": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-wiki-read/SKILL.md",
-      "computedHash": "18d7f1d8c6301a3bb9fb3104b0821dc1651f13090cc2995e6bc471f9fd145ef4"
+      "computedHash": "aa1bc315a660afcd0582065fa57772782a1e41597a10aae67de1b5eff027034c"
     },
     "supermap-wiki-search": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-wiki-search/SKILL.md",
-      "computedHash": "db16e8848dcc39a609c18877490e80b2cdf904da52e3ecb1fed40509effd3572"
+      "computedHash": "27f68d18a18214f2674b0b4e60b58791680e1b0f6e172249f62065d6b58b720e"
     },
     "supermap-wiki-writer": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-wiki-writer/SKILL.md",
-      "computedHash": "ca4af7351326f548222c475eed27ba28c5f7a4f85bc76f5fb56ad25b9ed4bd9d"
+      "computedHash": "ed9b94c448807d93f5d1ce23df1c3923faa7410c890316d5b96846c5c74f5a29"
     },
     "supermap-youtrack-search": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-youtrack-search/SKILL.md",
-      "computedHash": "bd187785a020f14c64bd391c10e63fc365efeeeaa0c4ba653e882299b4ae525e"
+      "computedHash": "d0cef6b5030ce62e1e37c0fe961ab1eca6df9bd7180a820c99b73eead132b712"
     },
     "supermap-youtrack-work-report": {
       "source": "liuxincuit/skills",
       "sourceType": "github",
       "skillPath": "skills/supermap-youtrack-work-report/SKILL.md",
-      "computedHash": "a11d6aa6ba249c429eb294147d5c3330277cbcf3f61ffc7d7f3d42d474525008"
+      "computedHash": "07ca2ff707d976b57093ba264eba8ff75f10acb05bb1e2fa332ef4567d3231d9"
+    },
+    "xlsx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/xlsx/SKILL.md",
+      "computedHash": "cb7fba2177d0d35d14b3244272b25d1b05246e99b3468a087fe06c84193dbd20"
     }
   }
 }

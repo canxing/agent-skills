@@ -2,7 +2,7 @@
 
 个人 Agent Skills 配置同步仓库。用于跨设备同步 AI Agent（OpenClaw、Claude Code、Codex 等）的技能配置。
 
-> **注意**：这不是 Skill 发布仓库。自制 Skills 请使用单独的仓库（如 `canxing/my-skills`）。
+> **注意**：这不是 Skill 发布仓库。自制 Skills 请使用单独的仓库（如 `liuxincuit/my-skills`）。
 
 ## 快速开始
 
@@ -10,7 +10,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/canxing/agent-skills.git
+git clone https://github.com/liuxincuit/agent-skills.git
 cd agent-skills
 
 # 2. 安装所有 skills
@@ -82,11 +82,11 @@ npx skills experimental_install -y
 
 ```bash
 # 创建独立的 skill 发布仓库
-git clone https://github.com/canxing/my-skills.git
+git clone https://github.com/liuxincuit/my-skills.git
 
 # 开发完成后，在本仓库中使用
 cd agent-skills
-npx skills add canxing/my-skills --skill my-awesome-skill
+npx skills add liuxincuit/my-skills --skill my-awesome-skill
 ```
 
 ## 当前 Skills
@@ -94,7 +94,7 @@ npx skills add canxing/my-skills --skill my-awesome-skill
 | Skill | 来源 | 用途 |
 |-------|------|------|
 | api-design-principles | wshobson/agents | API 设计原则 |
-| cve-vulnerability-analysis | canxing/skills | CVE 漏洞分析 |
+| cve-vulnerability-analysis | liuxincuit/skills | CVE 漏洞分析 |
 | find-skills | vercel-labs/skills | 搜索和发现 skills |
 | git-commit | github/awesome-copilot | Git 提交信息生成 |
 | prompt-engineering | inference-sh-9/skills | Prompt 工程指南 |
